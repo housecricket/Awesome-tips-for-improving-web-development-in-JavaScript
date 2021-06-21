@@ -1,6 +1,6 @@
 
 <div align="center">
-	<img width="300" height="350" src="useful-javaScript-tricks-and-tips.png" alt="Linux"></img>
+	<img width="830" height="435" src="useful-javaScript-tricks-and-tips.png" alt="Linux"></img>
 </div>
 
 
